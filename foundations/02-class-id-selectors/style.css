@@ -1,4 +1,19 @@
 .oddNumbers {
     background-color: rgb(204, 89, 108);
-    font-family: Verdana, DejaVu Sans, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#div-num-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.f-size-medium {
+    font-size: 24px;
+}
+
+#div-num-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
